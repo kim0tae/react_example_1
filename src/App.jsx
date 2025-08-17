@@ -1,4 +1,5 @@
-import { Header, UserInput } from "./components/Header";
+import UserInput from "./components/UserInput";
+import Header from "./components/Header";
 
 function App() {
   return (
